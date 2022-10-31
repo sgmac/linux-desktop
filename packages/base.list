@@ -11,6 +11,7 @@ feh
 firefox
 fish
 git
+github-cli
 gnu-free-fonts
 go
 htop
@@ -35,7 +36,9 @@ rust
 ttf-fira-code
 upower
 vlc
+wget
 xbindkeys
 xf86-video-intel
 xorg-server
 xorg-xinit
+yarn
