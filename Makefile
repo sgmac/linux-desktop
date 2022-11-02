@@ -10,3 +10,5 @@ base:
 
 extra:
 	cd packages && ./install-aur.sh
+infra: 
+	sudo  pacman -S --needed --noconfirm  - < ./packages/infra-tools.list
