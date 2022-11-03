@@ -41,4 +41,5 @@ xbindkeys
 xf86-video-intel
 xorg-server
 xorg-xinit
+xss-lock
 yarn
