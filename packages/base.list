@@ -1,9 +1,11 @@
 alacritty
 arandr
 blueman
+cdrtools
 dhclient
 dmenu
 dmenu
+dnsmasq
 dnsutils
 docker
 feh
@@ -30,6 +32,7 @@ openbsd-netcat
 pavucontrol
 picom
 podman
+qemu-base
 rofi
 rsync
 rust
