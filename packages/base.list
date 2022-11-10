@@ -27,8 +27,10 @@ light
 man-db
 net-tools
 network-manager-applet
+npm
 nvme-cli
 openbsd-netcat
+openvpn
 pavucontrol
 picom
 podman
