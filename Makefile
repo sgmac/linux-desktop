@@ -1,6 +1,6 @@
 
 
-all: base extra
+all: base extra infra container-tools
 
 .PHONY: base extra
 
@@ -12,3 +12,6 @@ extra:
 	cd packages && ./install-aur.sh
 infra: 
 	sudo  pacman -S --needed --noconfirm  - < ./packages/infra-tools.list
+
+container-tools: 
+	sudo  pacman -S --needed --noconfirm  - < ./packages/container-tools.list

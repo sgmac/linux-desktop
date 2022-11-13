@@ -7,8 +7,6 @@ dmenu
 dmenu
 dnsmasq
 dnsutils
-docker
-feh
 feh
 firefox
 fish
@@ -38,6 +36,7 @@ qemu-base
 rofi
 rsync
 rust
+scrot
 ttf-fira-code
 upower
 vlc
@@ -48,3 +47,5 @@ xorg-server
 xorg-xinit
 xss-lock
 yarn
+yubikey-full-disk-encryption
+yubioath-desktop
